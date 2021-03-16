@@ -11,9 +11,10 @@ h1{
     color: crimson;
     font-size: 4.5rem;
 }
-p{
+#container p{
     color: darkgoldenrod;
     font-size: 3.5rem;
+    text-align: justify;
 }
 
 h1, p{
